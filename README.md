@@ -1,1 +1,1 @@
-testing same commont github actions
+testing same common github actions
